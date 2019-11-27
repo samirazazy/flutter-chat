@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82385384439",
+    "firebase_url": "https://chat-cf957.firebaseio.com",
+    "project_id": "chat-cf957",
+    "storage_bucket": "chat-cf957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82385384439:android:3b861b6d9c799e32b1f4f2",
+        "android_client_info": {
+          "package_name": "co.sam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82385384439-j4h2afrmbfoe03n95fvu66hininp879n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHK0Y5Hgz4A6aM_EFGolWdh_n6ghSNHMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82385384439-j4h2afrmbfoe03n95fvu66hininp879n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
